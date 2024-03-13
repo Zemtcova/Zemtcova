@@ -8,8 +8,8 @@
 <h2>📃 Сourses and certificates:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Software testing from scratch. Theory + practice](https://drive.google.com/file/d/1DqrM-Xr-W-UYmgAMa_r5pN_R1RfCmgrP/view?usp=sharing)
-  - [Git Complete: The definitive, step by step guide to Git](https://drive.google.com/file/d/1lHzRw-dmTrmUiiQVmvv-j2nAysU8sk6l/view?usp=drive_link)
+  - [Software testing from scratch. Theory + practice](https://drive.google.com/file/d/1lHzRw-dmTrmUiiQVmvv-j2nAysU8sk6l/view?usp=drive_link)
+  - [Git Complete: The definitive, step by step guide to Git](https://drive.google.com/file/d/1DqrM-Xr-W-UYmgAMa_r5pN_R1RfCmgrP/view?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
