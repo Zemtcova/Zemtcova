@@ -3,11 +3,11 @@
 <h2>👨‍💻 My university and pet projects:</h2>
 
 - <b>С</b>
-  - [First payment of a bank loan (task to work with the terminal)]
+  - [First payment of a bank loan (task to work with the terminal)](https://github.com/Zemtcova/TerminalPractice)
 
 <h2>📃 Сourses and certificates:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+
   - [Software testing from scratch. Theory + practice](https://drive.google.com/file/d/1lHzRw-dmTrmUiiQVmvv-j2nAysU8sk6l/view?usp=drive_link)
   - [Git Complete: The definitive, step by step guide to Git](https://drive.google.com/file/d/1DqrM-Xr-W-UYmgAMa_r5pN_R1RfCmgrP/view?usp=sharing)
 
