@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 My university and pet projects:</h2>
 
-- <b>С</b>
+<img align="left" alt="C" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" /><br>
+
   - [First payment of a bank loan (task to work with the terminal)](https://github.com/Zemtcova/TerminalPractice)
 
 <h2>📃 Сourses and certificates:</h2>
